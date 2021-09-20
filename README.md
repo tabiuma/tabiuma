@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tabiuma
-- 👀 I’m interested in making web applications.
+- 👀 I’m interested in whatever fun.
 - 🌱 I’m currently learning Python and Swift.
 
 <!---
